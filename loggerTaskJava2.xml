@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-01T11:42:20.087321100Z</date>
+  <millis>1669894940087</millis>
+  <nanos>321100</nanos>
+  <sequence>0</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.130205100Z</date>
+  <millis>1669894940130</millis>
+  <nanos>205100</nanos>
+  <sequence>1</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.131204600Z</date>
+  <millis>1669894940131</millis>
+  <nanos>204600</nanos>
+  <sequence>2</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.132199700Z</date>
+  <millis>1669894940132</millis>
+  <nanos>199700</nanos>
+  <sequence>3</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.133199300Z</date>
+  <millis>1669894940133</millis>
+  <nanos>199300</nanos>
+  <sequence>4</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.133199300Z</date>
+  <millis>1669894940133</millis>
+  <nanos>199300</nanos>
+  <sequence>5</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.134196800Z</date>
+  <millis>1669894940134</millis>
+  <nanos>196800</nanos>
+  <sequence>6</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.135192600Z</date>
+  <millis>1669894940135</millis>
+  <nanos>192600</nanos>
+  <sequence>7</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-01T11:42:20.135192600Z</date>
+  <millis>1669894940135</millis>
+  <nanos>192600</nanos>
+  <sequence>8</sequence>
+  <logger>TaskJava2</logger>
+  <level>INFO</level>
+  <class>TaskJava2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+</log>
